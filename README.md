@@ -1,4 +1,3 @@
-### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Welcome!&desc=daeul%20github%20profile&descAlign=76&color=gradient&customColorList=5,5,9,20,35&fontColor=ffffff&fontAlign=68&fontAlignY=47)
 
 
