@@ -1,16 +1,18 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Welcome!&desc=daeul%20github%20profile&descAlign=76&color=gradient&customColorList=51,1,9,30,35&fontColor=ffffff&fontAlign=68&fontAlignY=47)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Welcome!&desc=daeul%20github%20profile&descAlign=76&color=gradient&customColorList=5,5,9,20,35&fontColor=ffffff&fontAlign=68&fontAlignY=47)
 
 
 <h3 align="center">Hi there👋</h3>
 <p align="center">안녕하세요. 안드로이드 개발자 이다을입니다. 총총 ~</p>
 
-<hr>
+---
+
 <h3 align="center">💙 Me 💙</h3>
 <p align="center">
   <a href="https://velog.io/@ouowinnie"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@ouowinnie"/></a>
 </p>
-<hr>
+
+---
 <h3 align="center">⚒ Tech Stack ⚒</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>&nbsp
@@ -34,7 +36,7 @@
 
 <h3 align="center">🐾 My Hits 🐾</h3>
 <p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%23222222&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%23222222&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
 </p>
 
 
