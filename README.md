@@ -7,7 +7,7 @@
 
 ---
 
-<h3 align="center">💙 Me 💙</h3>
+<h3 align="center">💗 Me 💗</h3>
 <p align="center">
   <a href="https://velog.io/@ouowinnie"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@ouowinnie"/></a>
 </p>
