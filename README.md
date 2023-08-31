@@ -2,7 +2,7 @@
 
 
 <h3 align="center">Hi there👋</h3>
-<p align="center">안녕하세요. 안드로이드 개발자 이다을입니다. 총총 ~</p>
+<p align="center">안녕하세요. 어플리케이션 개발자 이다을입니다.</p>
 
 
 <br>
